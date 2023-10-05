@@ -1,0 +1,888 @@
+06:13:07 PM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2\payday2_win32_release.exe" -steamMM
+06:13:07 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+06:13:07 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+06:13:07 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+06:13:07 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Register tweak: 1613ea9b9e70c665.d18c5db57c4aa500
+06:13:07 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] Loading module BeardLib/AssetLoader
+06:13:07 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:13:08 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272780 files in 960 ms
+06:13:08 PM Log:  (C:\projects\payday2-superblt\src\tweaker\wrenloader.cpp:49) [WREN] XML-Tweaking (DB) Bundle File 1613ea9b9e70c665.d18c5db57c4aa500
+06:13:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+06:13:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:13:10 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:13:10 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:13:10 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:13:10 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:13:10 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:13:11 PM Lua: [NoMA] fixed selection index of groza_underbarrel_npc
+06:13:11 PM Lua: [NoMA] fixed selection index of shak12_npc
+06:13:11 PM Lua: [NoMA] fixed selection index of kacchainsaw_flamethrower_npc
+06:13:11 PM Lua: [NoMA] fixed selection index of groza_underbarrel_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of slap_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of type54_underbarrel_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of rpg7_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of contraband_m203_npc
+06:13:11 PM Lua: [NoMA] fixed selection index of scout_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_npc
+06:13:11 PM Lua: [NoMA] fixed selection index of m1928_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of contraband_m203_crew
+06:13:11 PM Lua: [NoMA] fixed selection index of type54_underbarrel_npc
+06:13:11 PM Lua: [FSS] max task throughput is now 603
+06:13:11 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:13:11 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:13:11 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:13:11 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+06:13:17 PM Lua: [Keybind] Bound CustomWaypointsPlaceWaypoint to ,
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+06:13:17 PM Lua: [Keybind] Bound CustomWaypointsRemoveWaypoint to .
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'noma_report'
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_follow'
+06:13:17 PM Lua: [Keybind] Bound keepers_follow to -
+06:13:17 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_stay'
+06:13:17 PM Lua: [Keybind] Bound keepers_stay to =
+06:13:17 PM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/27224/version
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SimpleModUpdater_33.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Marking_11.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Anticrash_18.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FullSpeedSwarm_329.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/LessInaccurateWeaponLaser_8.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Monkeepers_83.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/LobbySettings_53.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Iter_200.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MoreWeaponStats_74.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SearchInventory_16.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://gitlab.com/steam-test1/alternative-updates/-/raw/main/updates_metas/meta_vanhudplus.json
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoDuplicatedBullets_9.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MoveableIntimidatedCop_63.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MrDrFantastic_6.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoArmorColorGrading_8.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoLaserWhenAimingDownSight_3.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/NoMutantsAllowed_118.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/QuickKeyboardInput_21.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PleaseGoThere_32.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SwitchUnderbarrelInSteelsight_6.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/TPACK_29.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/UsePerkDeviceInVehicle_1.zip
+06:13:23 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/PagerContour_7.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SentryHealthDisplay_13.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/RestructuredMenus_29.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/RefreshRateChecker_4.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/SawHelper_2.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/ReloadThenRun_11.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/RenameInventoryPages_5.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/AlphasortMods_6.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/LobbyPlayerInfo_87.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Keepers_234.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/CrewAbilityPiedPiper_12.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/CrewAbilityPockets_14.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/CrewAbilitySpotter_8.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/MakeTechnicianGreatAgain_17.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Celer_51.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/CivilianMarkerForDropins_7.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BagContour_32.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/BuilDB_40.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/DragDropInventory_25.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/Crewfiles_9.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/EnhancedHitmarkers_46.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/GoonmodCustomWaypoints_49.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/KeepItClean_11.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FlashingSwanSong_18.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FixCrimeSpreeConcealmentModifier_3.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FixedMutators_2.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/FilteredCameraBeeps_17.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to http://pd2mods.z77.fr/update/YetAnotherFlashlight_4.zip
+06:13:24 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/4su2vvgbsn7sfdf/meta.json?raw=1
+06:13:24 PM Lua: [INFO] [Updates] Received update data for 'vanhudplus'
+06:13:25 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+06:13:25 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+06:13:25 PM Lua: [INFO] [Updates] Received update data for 'BAI'
+06:13:25 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:15:38 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:15:38 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:15:47 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:15:47 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:15:47 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:15:47 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:15:47 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:15:47 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:15:48 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:15:48 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:15:48 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:15:48 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:15:48 PM Lua: [NoMA] fixed selection index of groza_underbarrel_npc
+06:15:48 PM Lua: [NoMA] fixed selection index of shak12_npc
+06:15:48 PM Lua: [NoMA] fixed selection index of kacchainsaw_flamethrower_npc
+06:15:48 PM Lua: [NoMA] fixed selection index of groza_underbarrel_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of slap_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of type54_underbarrel_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of rpg7_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of contraband_m203_npc
+06:15:48 PM Lua: [NoMA] fixed selection index of scout_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_npc
+06:15:48 PM Lua: [NoMA] fixed selection index of m1928_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of contraband_m203_crew
+06:15:48 PM Lua: [NoMA] fixed selection index of type54_underbarrel_npc
+06:15:48 PM Lua: [FSS] max task throughput is now 603
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+06:15:54 PM Lua: [Keybind] Bound CustomWaypointsPlaceWaypoint to ,
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+06:15:54 PM Lua: [Keybind] Bound CustomWaypointsRemoveWaypoint to .
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'noma_report'
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_follow'
+06:15:54 PM Lua: [Keybind] Bound keepers_follow to -
+06:15:54 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_stay'
+06:15:54 PM Lua: [Keybind] Bound keepers_stay to =
+06:15:54 PM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+06:16:08 PM Lua: [Celer] ID collision on 700141, new entry remapped to 2200000 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 700171, new entry remapped to 2200001 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 700246, new entry remapped to 2200002 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 700266, new entry remapped to 2200003 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 700271, new entry remapped to 2200004 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 700209, new entry remapped to 2200005 (portals patched)
+06:16:08 PM Lua: [Celer] ID collision on 500129, new entry remapped to 2200006 (portals patched)
+06:16:08 PM Lua: [BAI] VanillaHUD Plus detected. VanillaHUD Plus compatibility applied.
+06:16:08 PM Lua: [BAI] HUDList in VanillaHUD Plus detected. Compatibility applied.
+06:16:08 PM Lua: [BAI] No Mod detected. Vanilla mod compatibility applied.
+06:16:08 PM Lua: [BAI] Custom assault text loaded
+06:16:08 PM Lua: [BAI] Successfully initialized
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNAP/MTGA?/
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:08 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNAP/Keepers?/My Joker
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/Keepers!/letticepal
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:08 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNAP/MTGA?/
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/MTGA!/
+06:16:08 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/MIC?/
+06:16:08 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/MIC!/
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/MTGA!/
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:09 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) initializing profile in slot 2
+06:16:09 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) is using 96 skill points (max. is 97 for level 81)
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/MTGA!/
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:09 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BAI_Message/BAI?
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BAI_Message/BAI!
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:12 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BAI_EasterEgg/AIReactionTimeTooHigh?
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:12 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:12 PM Lua: [NoMA] Uninitializing profile 2
+06:16:12 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) initializing profile in slot 2
+06:16:12 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) is using 96 skill points (max. is 97 for level 81)
+06:16:12 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK doctor_bag_quantity
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BCO/ hectors_helmet nothing-nothing no_color_no_material plastic cas_trash wpn_fps_sho_boot 4_9_10_8_23_27_3_6_18_ wpn_fps_sho_coach 3_4_5_6_7_8_9_10_12_ shock boot_grunt-5-0 !-1-0 none default default|1.0
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEO|1/{"glove_variation":"default"}
+06:16:28 PM Lua: [INFO] [LuaNetworking] letticegals: GNSP/2/BEOD/1
+06:16:29 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BCO/ dawg nothing-nothing no_color_no_material plastic none wpn_fps_gre_m32 1_3_4_5_8_9_ wpn_fps_smg_thompson 4_5_7_9_13_2_57_101_111_ sandsteel !-1-0 !-1-0 dgame default esport|1.0
+06:16:29 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEO|1/{"glove_variation":"default"}
+06:16:29 PM Lua: [INFO] [LuaNetworking] nightfoxydemon: GNSP/1/BEOD/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping player/silent_kill/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK player/drill_alert_rad/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping player/intimidate_enemies/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping player/crouch_speed_multiplier/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK player/run_speed_multiplier/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK player/silent_drill/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK player/passive_concealment_modifier/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping player/civ_harmless_melee/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping ecm_jammer/can_retrigger/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) skipping ecm_jammer/affects_cameras/1
+06:16:29 PM Lua: [NoMA] nightfoxydemon (16_0_1_4_32_1_0_1_35_0_1_1_0_4_0-10_7) check OK player_automatic_mag_increase_1
+06:16:31 PM Lua: [INFO] [LuaNetworking] letticegals: GNAP/KeeperOFF/{"mode":1,"unit_id":826,"charname":"chico","peer_id":1}
+06:16:31 PM Lua: [INFO] [LuaNetworking] letticegals: GNAP/KeeperOFF/{"mode":1,"unit_id":827,"charname":"myh","peer_id":1}
+06:16:31 PM Lua: [INFO] [LuaNetworking] letticegals: GNEP/1/BAI_AssaultState/control
+06:16:32 PM Lua: [INFO] [LuaNetworking] letticegals: GNEP/1/AssaultStates_Net/anticipation
+06:16:32 PM Lua: [INFO] [LuaNetworking] letticegals: GNEP/1/SyncAssaultPhase/anticipation
+06:16:37 PM Lua: [NoMA] Uninitializing profile 2
+06:16:40 PM Lua: [INFO] [LuaNetworking] letticegals: GNAP/KeeperOFF/{"mode":1,"unit_id":843,"charname":"old_hoxton","peer_id":1}
+06:16:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:16:54 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:16:54 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:16:54 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:16:54 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:16:54 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:16:55 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+06:16:55 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+06:16:55 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Simple Mod Updater'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Marking'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Anticrash'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'BeardLib'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Full Speed Swarm'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Less Inaccurate Weapon Laser'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Monkeepers'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Settings'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Iter'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'More Weapon Stats'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Search Inventory'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'VanillaHUDPlus'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'No Duplicated Bullets'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Moveable Intimidated Cop'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Mr Dr Fantastic!'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'No Armor Color Grading'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'No Laser When Aiming Down Sight'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'No Mutants Allowed'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'QuickKeyboardInput'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Please, Go There'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Switch underbarrel in steelsight'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Solo Achievements'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'T-PACK'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Use perk device in vehicle'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Pager Contour'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Sentry Health Display'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Restructured Menus'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Refresh Rate Checker'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Saw Helper'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Reload Then Run'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Rename Inventory Pages'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Alphasort Mods'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Lobby Player Info'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Keepers'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pied Piper'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Pockets'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Crew Ability: Spotter'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Make Technician Great Again!'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Closed Captions'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Celer'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Civilian ! Marker for Drop-ins'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Bag Contour'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'BuilDB'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Drag and Drop Inventory'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Crewfiles'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Fading Contour'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Enhanced Hitmarkers'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'GoonMod's Custom Waypoints'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Keep It Clean!'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Flashing Swan Song'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Forklift Capacity'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Fix Crime Spree Concealment Modifier'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Fixed Mutators'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Filtered Camera Beeps'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Yet Another Flashlight'
+06:16:55 PM Lua: [INFO] [BLT] Setting up mod 'Better Assault Indicator'
+06:16:55 PM Lua: [NoMA] fixed selection index of groza_underbarrel_npc
+06:16:55 PM Lua: [NoMA] fixed selection index of shak12_npc
+06:16:55 PM Lua: [NoMA] fixed selection index of kacchainsaw_flamethrower_npc
+06:16:55 PM Lua: [NoMA] fixed selection index of groza_underbarrel_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of slap_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of type54_underbarrel_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of rpg7_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of contraband_m203_npc
+06:16:55 PM Lua: [NoMA] fixed selection index of scout_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of x_type54_underbarrel_npc
+06:16:55 PM Lua: [NoMA] fixed selection index of m1928_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of contraband_m203_crew
+06:16:55 PM Lua: [NoMA] fixed selection index of type54_underbarrel_npc
+06:16:56 PM Lua: [FSS] max task throughput is now 603
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPlaceWaypoint'
+06:16:56 PM Lua: [Keybind] Bound CustomWaypointsPlaceWaypoint to ,
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsRemoveWaypoint'
+06:16:56 PM Lua: [Keybind] Bound CustomWaypointsRemoveWaypoint to .
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsPreviousWaypoint'
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'CustomWaypointsNextWaypoint'
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'monkeepers_delete_all_routes'
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'noma_report'
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_follow'
+06:16:56 PM Lua: [Keybind] Bound keepers_follow to -
+06:16:56 PM Lua: [INFO] [Keybind] Registered keybind 'keepers_stay'
+06:16:56 PM Lua: [Keybind] Bound keepers_stay to =
+06:16:56 PM Lua: [WARN] [Menus] Parent menu for child 'bagcontour_customize' is null, ignoring...
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/14924/version
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://api.modworkshop.net/mods/27224/version
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://gitlab.com/steam-test1/alternative-updates/-/raw/main/updates_metas/meta_vanhudplus.json
+06:16:57 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://www.dropbox.com/s/4su2vvgbsn7sfdf/meta.json?raw=1
+06:16:57 PM Lua: [INFO] [Updates] Received update data for 'vanhudplus'
+06:16:58 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+06:16:58 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+06:16:58 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+06:16:58 PM Lua: [INFO] [Updates] Received update data for 'BAI'
+06:17:08 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:44) CURL CLOSED
